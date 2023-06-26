@@ -106,4 +106,5 @@ ul{
 
 .list{
 display: flex;
+background-image: url("/project/note.jpg");
 }
